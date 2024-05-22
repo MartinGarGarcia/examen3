@@ -45,7 +45,7 @@ public class CCuenta {
 
         return iCodErr;
     }
-
+    /*Comentario añadido para hacer un commit*/
     /*
      * Metodo para retirar cantidades en la cuenta. Modifica el saldo.
      */
